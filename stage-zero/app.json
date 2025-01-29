@@ -8,18 +8,20 @@
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/adaptive-icon.svg",
+      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#00AEFF"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.richyyyy.stagezero"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.svg",
+        "foregroundImage": "",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.richyyyy.stagezero"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -33,6 +35,11 @@
           "resizeMode": "contain"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "37f7acf8-acda-4b78-ba7d-99fef7f206b2"
+      }
+    }
   }
 }
