@@ -2,7 +2,7 @@
 
 This is a simple mobile app built with React Native for HNG12.
 
-Click the link to test the app [Run on Appetize]()
+Click the link to test the app [Run on Appetize](https://appetize.io/app/b_gaolpxlc3jvwzh7eekznt7uhzq?device=pixel7&osVersion=13.0)
 
 ## 📂 Repository
 
