@@ -14,7 +14,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <Feature
-        githubUrl="https://github.com/ikennarichard/project-manager/stage-zero"
+        githubUrl="https://github.com/ikennarichard/project-manager"
         resources={[
           "https://hng.tech/hire/react-native-developers",
           "https://telex.im",
