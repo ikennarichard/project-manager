@@ -18,6 +18,7 @@ export default function App() {
         resources={[
           "https://hng.tech/hire/react-native-developers",
           "https://telex.im",
+          "https://delve.fun",
         ]}
       />
       <StatusBar style="auto" />

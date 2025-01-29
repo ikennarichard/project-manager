@@ -42,6 +42,13 @@ const Feature = ({ githubUrl, resources }: Props) => {
         <FontAwesome name="bell" size={24} color="#333" />
         <Text style={styles.buttonText}>Telex</Text>
       </TouchableOpacity>
+      <TouchableOpacity 
+        style={[styles.button, { marginTop: 10 }]}
+        onPress={() => openLink(resources[2])}
+      >
+        <FontAwesome name="language" size={24} color="#333" />
+        <Text style={styles.buttonText}>Delve</Text>
+      </TouchableOpacity>
     </View>
   );
 };
