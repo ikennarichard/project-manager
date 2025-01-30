@@ -1,4 +1,4 @@
-# Contributing to HNG Mobile App
+# Contributing to HNG Stage-Zero
 
 Contributions are welcomed! Please follow these guidelines:
 

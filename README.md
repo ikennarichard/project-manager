@@ -10,12 +10,12 @@ Click the link to test the app [Run on Appetize](https://appetize.io/app/b_gaolp
 
 ## 🔗 HNG Resources
 
-[HNG](https://hng.tech)
-[React Native](https://hng.tech/hire/react-native-developers)
-[Angroid](https://hng.tech/hire/android-developers)
-[IOS](https://hng.tech/hire/ios-developers)
-[Telex](https://telex.im)
-[Delve](https://delve.fun)
+- [HNG](https://hng.tech)
+- [React Native](https://hng.tech/hire/react-native-developers)
+- [Android](https://hng.tech/hire/android-developers)
+- [IOS](https://hng.tech/hire/ios-developers)
+- [Telex](https://telex.im)
+- [Delve](https://delve.fun)
 
 ## 🚀 Getting Started
 
