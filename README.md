@@ -19,12 +19,15 @@ Click the link to test the app [Run on Appetize](https://appetize.io/app/b_gaolp
 
 ## 🚀 Getting Started
 
+### Documentation
+
+- [React Native](https://reactnative.dev)
+- [Expo](https://docs.expo.dev/build/introduction/)
+
 ### Prerequsites
 
 - An IDE (eg. VS Code)
 - Nodejs
-- [React Native](https://reactnative.dev)
-- [Expo](https://docs.expo.dev/build/introduction/)
 
 ### Clone the repo
 
