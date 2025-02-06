@@ -33,7 +33,7 @@ Click the link to test the app [Run on Appetize](https://appetize.io/app/b_gaolp
 
 ```sh
 git clone https://github.com/ikennarichard/project-manager.git
-cd project-manager/stage-zero
+cd project-manager
 ```
 
 ### Install Dependencies
